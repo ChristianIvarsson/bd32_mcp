@@ -1,0 +1,7 @@
+flashmcp <filename>
+1: Error, could not read from file (File should be 256Kb + 256 bytes)
+2: Could not open file
+3: Unexpected exception
+4: Wrong number of parameters
+5: Error, could not erase flash
+6: Error, could not write to flash

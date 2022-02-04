@@ -1,0 +1,9 @@
+make clean
+make
+ECHO OFF
+copy misc\DUMPMCP.MSG  ..\DUMPMCP.MSG
+copy out\DUMPMCP.D32   ..\DUMPMCP.D32
+copy misc\FLASHMCP.MSG ..\FLASHMCP.MSG
+copy out\FLASHMCP.D32  ..\FLASHMCP.D32
+
+copy misc\PREPMCP.DO   ..\PREPMCP.DO
